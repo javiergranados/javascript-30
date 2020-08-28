@@ -1,0 +1,14 @@
+{
+  "name": "javascript-30",
+  "version": "0.1.0",
+  "description": "Javascript 30 day challenge",
+  "keywords": [
+    "coding",
+    "tech",
+    "courses",
+    "javascript",
+    "es6"
+  ],
+  "author": "Javier Granados",
+  "license": "MIT"
+}
